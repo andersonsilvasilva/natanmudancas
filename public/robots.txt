@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://darkslategray-seal-414095.hostingersite.com/sitemap.xml
