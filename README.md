@@ -4,6 +4,8 @@ Site institucional comercial da **Natan Mudanças** (Balneário Camboriú/SC), c
 
 ![Preview do Hero do site](docs/screenshot-hero.png)
 
+**Propriedade:** HighTech Tecnologia · **Versão:** 1.0 · **Data de criação:** 01/09/2026
+
 ## Stack
 
 - [React 18](https://react.dev/) + [TypeScript](https://www.typescriptlang.org/)
